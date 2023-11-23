@@ -73,7 +73,7 @@ class _LogInState extends State<LogIn> {
                               child: ElevatedButton(
                                 onPressed: () {
                                   // login sequences here
-                                  if (controller.text == 'mei@hello.com' &&
+                                  if (controller.text == 'yong@hello.com' &&
                                       controller2.text == '1234') {
                                     Navigator.push(
                                         context,
